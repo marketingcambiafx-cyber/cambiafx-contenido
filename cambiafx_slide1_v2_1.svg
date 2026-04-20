@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&amp;family=Quicksand:wght@400;500;600;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- FONDO Majorelle -->
+  <rect width="1080" height="1350" fill="#7E5AFB"/>
+
+  <!-- BLOQUE INFERIOR Eerie Black -->
+  <rect x="0" y="920" width="1080" height="430" fill="#222222"/>
+
+  <!-- LÍNEA DIVISORIA Mindaro -->
+  <rect x="0" y="916" width="1080" height="8" fill="#BCFF52"/>
+
+  <!-- ETIQUETA CATEGORÍA -->
+  <rect x="80" y="116" width="264" height="48" rx="24" fill="#222222"/>
+  <text x="212" y="147"
+    font-family="'Quicksand', sans-serif"
+    font-weight="600"
+    font-size="16"
+    fill="#BCFF52"
+    text-anchor="middle"
+    letter-spacing="3">ECONOMÍA HOY</text>
+
+  <!-- ESPACIO RESERVADO PARA LOGO — esquina superior izquierda -->
+  <!-- El logo se agrega manualmente en Canva -->
+
+  <!-- TÍTULO PRINCIPAL -->
+  <text x="80" y="310"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="128"
+    fill="#BCFF52"
+    letter-spacing="-3">¿QUÉ</text>
+
+  <text x="80" y="455"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="128"
+    fill="#FFFFFF"
+    letter-spacing="-3">LE PASA</text>
+
+  <text x="80" y="600"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="128"
+    fill="#BCFF52"
+    letter-spacing="-3">AL</text>
+
+  <text x="80" y="745"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="128"
+    fill="#FFFFFF"
+    letter-spacing="-3">DÓLAR?</text>
+
+  <!-- SUBTÍTULO -->
+  <text x="80" y="868"
+    font-family="'Quicksand', sans-serif"
+    font-weight="500"
+    font-size="30"
+    fill="#BCFF52">Todo lo que mueve tu tipo de cambio</text>
+
+  <!-- BLOQUE DATO — fondo negro -->
+  <text x="80" y="988"
+    font-family="'Quicksand', sans-serif"
+    font-weight="600"
+    font-size="20"
+    fill="#666666"
+    letter-spacing="2">TIPO DE CAMBIO HOY</text>
+
+  <text x="80" y="1075"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="80"
+    fill="#BCFF52"
+    letter-spacing="-2">S/ 3.72</text>
+
+  <text x="80" y="1125"
+    font-family="'Quicksand', sans-serif"
+    font-weight="500"
+    font-size="28"
+    fill="#FFFFFF">por dólar · Venta S/ 3.76</text>
+
+  <!-- INDICADOR 1/5 -->
+  <text x="1000" y="1185"
+    font-family="'Quicksand', sans-serif"
+    font-weight="500"
+    font-size="22"
+    fill="#555555"
+    text-anchor="end">1/5</text>
+
+  <!-- BANNER TAGLINE — estilo manual de marca -->
+  <rect x="0" y="1230" width="1080" height="64" fill="#BCFF52"/>
+  <text x="30" y="1273"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="700"
+    font-size="20"
+    fill="#222222"
+    letter-spacing="2">QUÉ BUENO QUE CAMBIASTE*    QUÉ BUENO QUE CAMBIASTE*    QUÉ BUENO QUE CAMBIASTE*</text>
+
+</svg>
