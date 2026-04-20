@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&amp;family=Quicksand:wght@400;500;600;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- ░░ FONDO PRINCIPAL Majorelle ░░ -->
+  <rect width="1080" height="1350" fill="#7E5AFB"/>
+
+  <!-- ░░ BLOQUE INFERIOR Eerie Black ░░ -->
+  <rect x="0" y="860" width="1080" height="370" fill="#222222"/>
+
+  <!-- ░░ LÍNEA DIVISORIA Mindaro ░░ -->
+  <rect x="0" y="856" width="1080" height="7" fill="#BCFF52"/>
+
+  <!-- ░░ ZONA RESERVADA ILUSTRACIÓN (derecha inferior, 35% del ancho) ░░ -->
+  <!-- Esta zona queda intencionalmente vacía para agregar ilustración en Canva -->
+  <!-- Ocupa x:700 y:500 → x:1080 y:860 aprox -->
+
+  <!-- ░░ ETIQUETA FECHA / CATEGORÍA ░░ -->
+  <rect x="80" y="108" width="280" height="46" rx="23" fill="#222222"/>
+  <text x="220" y="138"
+    font-family="'Quicksand', sans-serif"
+    font-weight="700"
+    font-size="15"
+    fill="#BCFF52"
+    text-anchor="middle"
+    letter-spacing="3">20 ABR · ECONOMÍA</text>
+
+  <!-- ░░ TÍTULO PRINCIPAL ░░ -->
+  <!-- Línea 1 -->
+  <text x="80" y="290"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="118"
+    fill="#BCFF52"
+    letter-spacing="-4">EL DÓLAR</text>
+
+  <!-- Línea 2 -->
+  <text x="80" y="415"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="118"
+    fill="#FFFFFF"
+    letter-spacing="-4">SUBE Y</text>
+
+  <!-- Línea 3 -->
+  <text x="80" y="540"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="118"
+    fill="#BCFF52"
+    letter-spacing="-4">HAY QUE</text>
+
+  <!-- Línea 4 — más pequeña para que quepa -->
+  <text x="80" y="650"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="96"
+    fill="#FFFFFF"
+    letter-spacing="-3">ENTENDERLO</text>
+
+  <!-- ░░ SUBTÍTULO ░░ -->
+  <text x="80" y="770"
+    font-family="'Quicksand', sans-serif"
+    font-weight="500"
+    font-size="28"
+    fill="#BCFF52">Elecciones + Medio Oriente</text>
+  <text x="80" y="808"
+    font-family="'Quicksand', sans-serif"
+    font-weight="500"
+    font-size="28"
+    fill="#FFFFFF">mueven tu tipo de cambio</text>
+
+  <!-- ░░ BLOQUE DATO TIPO DE CAMBIO ░░ -->
+  <text x="80" y="944"
+    font-family="'Quicksand', sans-serif"
+    font-weight="600"
+    font-size="18"
+    fill="#666666"
+    letter-spacing="3">TIPO DE CAMBIO HOY</text>
+
+  <text x="80" y="1040"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="800"
+    font-size="88"
+    fill="#BCFF52"
+    letter-spacing="-2">S/ 3.44</text>
+
+  <text x="80" y="1090"
+    font-family="'Quicksand', sans-serif"
+    font-weight="500"
+    font-size="26"
+    fill="#FFFFFF">Compra S/3.42 · Venta S/3.45</text>
+
+  <!-- ░░ TENDENCIA ░░ -->
+  <rect x="80" y="1120" width="320" height="46" rx="23" fill="#BCFF52" opacity="0.15"/>
+  <text x="240" y="1149"
+    font-family="'Quicksand', sans-serif"
+    font-weight="700"
+    font-size="18"
+    fill="#BCFF52"
+    text-anchor="middle"
+    letter-spacing="1">↑ SUBE esta semana +1.82%</text>
+
+  <!-- ░░ INDICADOR 1/5 ░░ -->
+  <text x="1000" y="1192"
+    font-family="'Quicksand', sans-serif"
+    font-weight="500"
+    font-size="20"
+    fill="#444444"
+    text-anchor="end">1/5</text>
+
+  <!-- ░░ BANNER TAGLINE inferior — estilo manual de marca ░░ -->
+  <rect x="0" y="1218" width="1080" height="132" fill="#BCFF52"/>
+  <text x="30" y="1268"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="700"
+    font-size="19"
+    fill="#222222"
+    letter-spacing="2">QUÉ BUENO QUE CAMBIASTE*   QUÉ BUENO QUE CAMBIASTE*   QUÉ BUENO QUE CAMBIASTE*</text>
+  <text x="30" y="1304"
+    font-family="'Plus Jakarta Sans', sans-serif"
+    font-weight="700"
+    font-size="19"
+    fill="#222222"
+    letter-spacing="2">QUÉ BUENO QUE CAMBIASTE*   QUÉ BUENO QUE CAMBIASTE*   QUÉ BUENO QUE CAMBIASTE*</text>
+
+</svg>
